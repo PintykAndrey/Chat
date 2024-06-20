@@ -1,0 +1,7 @@
+C:\Users\pinty\Desktop\1ch\1ch\bin\Debug\1ch.exe.config
+C:\Users\pinty\Desktop\1ch\1ch\bin\Debug\1ch.exe
+C:\Users\pinty\Desktop\1ch\1ch\bin\Debug\1ch.pdb
+C:\Users\pinty\Desktop\1ch\1ch\obj\Debug\1ch.csproj.AssemblyReference.cache
+C:\Users\pinty\Desktop\1ch\1ch\obj\Debug\1ch.csproj.CoreCompileInputs.cache
+C:\Users\pinty\Desktop\1ch\1ch\obj\Debug\1ch.exe
+C:\Users\pinty\Desktop\1ch\1ch\obj\Debug\1ch.pdb
